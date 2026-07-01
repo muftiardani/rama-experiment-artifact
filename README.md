@@ -1,7 +1,6 @@
 # RAMA — Artifact Package
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-published-brightgreen.svg)](ARTIFACT_MANIFEST.md)
 [![Experiment](https://img.shields.io/badge/experiment-180%2F180%20valid-success.svg)](experiments/processed/)
 [![Version](https://img.shields.io/badge/version-v1.0.0-informational.svg)](CITATION.cff)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21105490.svg)](https://doi.org/10.5281/zenodo.21105490)
