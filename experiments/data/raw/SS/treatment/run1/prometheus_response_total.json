@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_response_total",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "response_category": "full",
+          "run": "1",
+          "scenario": "SS"
+        },
+        "value": [
+          1782504170.382,
+          "82"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+id,experiment_run_id,scenario,condition,run_number,event_type,target_service,event_time,notes
+641,171,C2,treatment,1,fault_injected,"vision,speech",2026-06-28 21:21:58.015782+00:00,
+642,171,C2,treatment,1,fault_stage_started,vision,2026-06-28 21:21:58.022349+00:00,step=1
+643,171,C2,treatment,1,fault_stage_finished,vision,2026-06-28 21:22:29.012065+00:00,step=1
+644,171,C2,treatment,1,fault_stage_started,speech,2026-06-28 21:22:29.017650+00:00,step=2
+645,171,C2,treatment,1,fault_stage_finished,speech,2026-06-28 21:24:51.828800+00:00,step=2
+646,171,C2,treatment,1,fault_finished,"vision,speech",2026-06-28 21:24:51.834375+00:00,
+647,,C2,treatment,1,recovery_started,all,2026-06-28 21:27:26.102097+00:00,
+648,,C2,treatment,1,recovered,all,2026-06-28 21:33:27.471442+00:00,

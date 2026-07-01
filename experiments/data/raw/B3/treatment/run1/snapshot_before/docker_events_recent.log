@@ -1,0 +1,256 @@
+1782628066 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628069 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628069 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628069 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628069 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628069 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628070 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628071 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628071 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628071 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628076 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628076 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628076 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628080 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628080 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628080 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628082 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628082 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628083 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628086 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628086 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628086 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628090 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628090 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628090 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628094 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628094 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628094 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628096 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628096 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628096 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628099 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628099 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628099 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628100 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628100 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628100 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628101 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628101 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628101 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628106 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628106 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628106 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628110 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628110 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628110 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628113 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628113 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628113 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628116 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628116 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628116 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628120 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628120 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628120 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628124 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628124 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628124 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628126 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628126 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628126 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628129 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628129 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628129 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628130 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628130 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628130 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628131 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628131 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628131 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628136 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628136 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628137 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628140 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628140 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628140 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628143 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628143 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628143 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628147 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628147 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628147 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628150 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628150 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628150 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628154 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628154 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628154 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628157 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628157 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628157 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628159 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628159 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628159 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628160 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628160 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628160 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628161 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628161 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628161 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628167 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628167 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628167 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628170 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628170 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628170 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628173 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628173 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628173 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628177 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628177 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628177 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628180 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628180 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628180 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628184 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628184 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628184 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628187 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628187 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628187 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628189 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628189 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628189 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628190 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628190 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628190 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628191 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628191 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628191 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628197 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628197 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628197 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628200 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628200 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628200 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628203 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628203 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628203 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628207 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628207 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628207 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628210 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628210 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628210 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628214 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628214 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628214 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628217 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628217 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628217 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628219 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628219 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628219 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628220 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628220 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628220 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628221 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628221 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628222 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628227 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628227 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628227 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628230 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628230 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628230 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628233 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628233 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628233 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628237 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628237 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628237 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628240 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628240 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628240 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628244 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628244 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628244 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628247 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628247 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628247 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628249 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628249 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628249 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628250 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628250 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628251 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628252 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628252 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628252 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628257 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628257 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628257 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628261 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628261 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628261 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628263 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628263 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628263 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628267 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628267 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628267 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628271 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628271 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628271 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628274 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628274 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628275 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628277 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628277 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628277 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628279 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628279 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628279 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628281 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628281 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628281 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628282 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628282 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628282 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628287 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628287 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628287 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628291 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628291 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628291 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628293 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628293 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8001/health') 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628293 container exec_die 1f0bb9cdfe4b69b085e665dc99bd9d1e392f9a0dd455be24dbf590f611008ce4
+1782628297 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628297 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628297 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628301 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628301 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628301 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628305 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628305 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8003/health') 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628305 container exec_die 2478766b4253cf506053e9e67d999adc0b10089285be055c17841430e1e895a7
+1782628307 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628307 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628307 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628309 container exec_create: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628309 container exec_start: /bin/sh -c wget --no-verbose --tries=1 --spider http://localhost:8080/api/v1/health || exit 1 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628309 container exec_die 50a0d35025d2f402ff333bc9251f63e4496300f49b33ad82bb23088e804dfb5b
+1782628311 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628311 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628311 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628312 container exec_create: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628312 container exec_start: python3 -c import urllib.request; urllib.request.urlopen('http://localhost:8002/health') 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628312 container exec_die 93d0e2d4690b75fb85813ecff20d28a949420e31b63e735f8f023909e7f7c770
+1782628317 container exec_create: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628317 container exec_start: redis-cli ping 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628317 container exec_die 394562a6d02880fcf8b0c1db2385e6ac6cfa108ab28e1326eaab532cc2f30ee0
+1782628321 container exec_create: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628321 container exec_start: /bin/sh -c pg_isready -U postgres -d temandifa 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4
+1782628321 container exec_die 1ec194d5b8020f6269174c22f5f0ad237397ab2c31b86dc2c395f92fda15c1f4

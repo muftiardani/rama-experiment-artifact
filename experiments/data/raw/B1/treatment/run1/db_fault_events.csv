@@ -1,0 +1,5 @@
+id,experiment_run_id,scenario,condition,run_number,event_type,target_service,event_time,notes
+161,91,B1,treatment,1,fault_injected,vision,2026-06-27 18:53:34.438796+00:00,
+162,91,B1,treatment,1,fault_finished,vision,2026-06-27 18:53:35.417896+00:00,
+163,,B1,treatment,1,recovery_started,all,2026-06-27 18:56:09.642232+00:00,
+164,,B1,treatment,1,recovered,all,2026-06-27 18:59:05.317577+00:00,

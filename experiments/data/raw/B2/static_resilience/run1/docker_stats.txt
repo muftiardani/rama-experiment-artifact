@@ -1,0 +1,9 @@
+temandifa_backend	0.01%	36.57MiB / 512MiB
+temandifa_db	0.05%	48.98MiB / 1.5GiB
+temandifa_redis	0.31%	8.734MiB / 128MiB
+temandifa_ocr	0.19%	276.6MiB / 1GiB
+temandifa_vision	0.20%	152.9MiB / 768MiB
+temandifa_prometheus	0.00%	56.47MiB / 128MiB
+temandifa_speech	0.17%	365.4MiB / 1.25GiB
+temandifa_grafana	0.32%	225.2MiB / 256MiB
+temandifa_alertmanager	0.04%	23.44MiB / 64MiB

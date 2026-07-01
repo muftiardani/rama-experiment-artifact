@@ -1,0 +1,1000 @@
+{"time": "2026-06-28T06:06:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:04", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:50954 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50954 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:05", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:09", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:10", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:14", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:37918 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37918 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:20", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:20", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:45102 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:25", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:26", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:46594 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:30", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:31", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:55126 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55126 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:35", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:36", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:40", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:41", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:46", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:46", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:40490 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40490 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:06:51", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:52", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:06:56", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:06:57", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:37488 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38716 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:01", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:02", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:49334 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49334 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:06", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:07", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:12", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:12", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:17", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:18", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:59228 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59228 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:22", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:23", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:27", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:28", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:57316 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:32", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:33", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50392 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48728 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48728 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:38", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:07:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:48", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:55504 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55504 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:07:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:07:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:39660 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49504 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45516 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45516 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35332 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35332 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56882 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51090 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35650 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35650 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40142 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40142 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50254 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46078 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46688 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46688 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58192 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58192 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57846 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36038 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36038 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60052 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57160 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57160 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56840 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49642 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49642 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49104 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60468 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60468 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36666 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55348 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55348 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38106 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35788 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35788 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47612 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60720 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60720 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52016 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33980 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33980 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52468 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33136 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33136 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52960 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39082 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39082 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35016 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55502 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55502 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40942 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33666 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33666 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54540 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36886 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36886 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35790 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57574 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57574 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39460 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38006 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38006 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48334 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52892 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52892 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58266 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48070 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48070 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57354 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34710 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34710 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60804 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48866 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48866 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38346 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40692 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40692 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38972 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:14:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:40700 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40700 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48576 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:14:37", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:14:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:14:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:14:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:14:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:53384 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53384 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:14:51", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:14:55", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:14:57", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:42252 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:58194 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58194 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55950 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:07", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:08", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:12", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:13", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:18", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:43708 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43708 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:23", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:28", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:29", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:37208 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:33", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:34", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:49196 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49196 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51780 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:44", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:60990 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60990 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:15:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:15:55", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:15:59", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:60604 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51866 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51866 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:16:05", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:52382 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:16:06", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:10", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:16", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50978 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50978 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:16:21", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:27", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:37544 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38150 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38150 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37252 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:16:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:42", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:47", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:48", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:48004 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48004 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:16:52", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:53", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:16:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:16:58", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:35656 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:04", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:39998 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39998 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:09", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:41334 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:14", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:47248 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47248 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:24", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:25", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:30", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:39146 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:34", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:46650 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46650 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:35", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:40", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:41", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:45", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:46", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54732 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37752 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37752 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:17:50", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:51", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:17:55", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:17:56", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:01", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:02", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50270 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:45274 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50270 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:18:06", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:07", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:11", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:12", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:17", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:17", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:51824 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51824 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35276 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:18:22", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:23", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:27", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:28", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:33", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:33", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:56356 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56356 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33520 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:18:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:18:48", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:49", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50880 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50880 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:18:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:18:54", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:59060 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:18:59", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:04", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:54282 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54282 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:05", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:34292 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:10", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:16", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:46566 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46566 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:20", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:26", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:46980 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:39114 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39114 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:36680 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:41", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:47", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:47", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:55910 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55910 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:19:52", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:53", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:19:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:19:58", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54250 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54250 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52216 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35132 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:08", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:14", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:41670 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41670 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:23", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:29", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:34", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:34544 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34544 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:35", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:33664 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:39", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:40", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:48284 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:44", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:39490 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39490 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:20:50", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:20:55", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:20:56", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:00", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:01", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:49052 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49052 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:05", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:06", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:37808 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:11", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:16", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:55228 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:17", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54164 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54164 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:21", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:22", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:27", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:34094 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34094 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:44118 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:42", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:43", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:47", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:48", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:45660 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45660 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59870 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:21:52", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:53", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:21:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:21:58", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:03", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:42330 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42330 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:08", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:57454 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:14", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:49038 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49038 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:23", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:51892 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:28", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:29", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:33", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:34", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:60840 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60840 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:49190 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:44", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:57942 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57942 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:22:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:22:55", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:22:59", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:48314 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:04", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:57104 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57104 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:05", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:23:09", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:10", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:36904 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:57464 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57464 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:20", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:23:25", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:26", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:23:30", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:31", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:46100 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46100 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:35", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:36", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:33448 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:40", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:41", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:53340 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:46", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:46", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:53242 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53242 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:23:51", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:52", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:23:56", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:23:57", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:24:01", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:02", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:44750 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44750 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:06", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:07", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:41372 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:11", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:56256 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:12", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:24:17", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:18", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:45908 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45908 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:22", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:23", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:24:27", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:28", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:24:32", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:33", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:51972 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51972 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:37", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:38", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:34550 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:34288 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:48", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:49", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:38924 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38924 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:24:53", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:54", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:24:58", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:24:59", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:25:03", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:25:04", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:46400 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46400 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:25:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:25:09", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:57372 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:25:14", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:25:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:38684 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:25:19", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:36992 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36992 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:25:20", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:25:24", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:25:25", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:25:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:25:31", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:36762 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36762 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:25:35", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:44348 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55006 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51360 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51360 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54188 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54188 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44554 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37536 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48318 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48318 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58750 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58750 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47178 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50672 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38536 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38536 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37730 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37730 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50468 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40410 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41694 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41694 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33954 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33954 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45650 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50134 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45338 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45338 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50244 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50244 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32834 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56200 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38328 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38328 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49882 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49882 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47896 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45854 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55322 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55322 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59362 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59362 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48764 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43492 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49054 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49054 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56454 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56454 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48052 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35444 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39296 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39296 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53310 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53310 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54836 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50272 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41742 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41742 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56682 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56682 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39954 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59316 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53010 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53010 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43036 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43036 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45664 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54344 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57860 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57860 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40596 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40596 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38670 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50202 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53914 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53914 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40856 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40856 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:08", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:59580 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:35458 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:19", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:55810 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55810 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:32:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:27", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:32:32", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:34", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:35780 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35780 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:35278 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:44", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:32836 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:49", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:35158 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35158 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:32:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:32:55", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:32:59", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:04", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:33594 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33594 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:05", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:09", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:10", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:57674 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:52002 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51364 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51364 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:20", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:25", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:26", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:31", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:52732 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52732 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:41", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:36842 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:46", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:47", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:43390 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36948 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36948 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:33:52", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:52", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:33:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:33:58", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:46570 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46570 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:07", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:08", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:59702 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:12", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:13", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     127.0.0.1:49232 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:41300 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41300 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:23", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:28", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:29", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:33", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:34", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:37040 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37040 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:39", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:39", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:44", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:39230 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43726 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:47194 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47194 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:34:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:34:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:34:55", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:00", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:00", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54966 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54966 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:05", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:06", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:10", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:16", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:52736 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54566 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54566 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:21", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:34900 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:27", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54378 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54378 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:41", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:35:47", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:48", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:36522 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36522 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37494 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:52", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:53", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:33042 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:35:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:35:58", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:03", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:52350 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52350 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:09", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:14", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:18", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:52990 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52990 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38462 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:24", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:30", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:43642 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:34", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:40526 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40526 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:35", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:39", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:40", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:36:45", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:42702 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42702 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:50", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:51", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:41906 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:36:55", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:36:56", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:00", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:01", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50050 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50050 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:06", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:07", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:60688 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:11", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:12", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:16", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:17", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:48794 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48794 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56682 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:22", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:22", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:27", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:28", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:32", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:33", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:33158 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33158 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:37", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:38", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:40702 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:43", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:48", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:48", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:50584 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50584 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49580 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:37:53", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:54", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:37:58", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:37:59", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:03", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:04", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:59484 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59484 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:09", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:09", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:14", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:15", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:44070 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:19", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:52124 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52124 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:20", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:60026 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:24", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:25", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:30", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:34", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:37328 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37328 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:35", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:40", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:40", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:38:45", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:42374 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42374 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:50", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:51", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:45980 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37236 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:38:55", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:38:56", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:39:00", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:01", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:47384 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47384 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:06", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:06", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:39:11", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:39:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:16", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:55606 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55606 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:21", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:37642 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:27", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:35772 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:34276 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34276 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:39:41", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:39:46", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:47", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:58472 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58472 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:51", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:52", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:56182 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:39:56", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:39:57", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:43588 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:02", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:42984 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42984 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:07", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:07", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:12", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:13", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:17", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:18", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:48028 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48028 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:22", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:23", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:35494 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:27", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:28", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:32", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:33", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:40266 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40266 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59912 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:38", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:38", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:43", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:43", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:40:48", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:48", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:34698 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34698 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:53", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:54", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:36814 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:40:58", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:40:59", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:03", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:04", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:49876 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49876 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:08", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:09", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:60408 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:13", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:14", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:19", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:19", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:37998 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37998 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:24", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:24", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:34078 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:29", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:30", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:34", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:45792 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45792 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:35", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:39", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:40", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:44", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:45", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54186 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:49", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:36486 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36486 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:41:50", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:41:54", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:41:55", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:43500 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:00", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:01", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:58000 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58000 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:05", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:06", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:42:10", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:11", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:42:15", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:16", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:43764 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43764 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:20", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:21", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:55972 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:26", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:26", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:39378 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:31", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:32", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:53536 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53536 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:36", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:37", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:42:41", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:42", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+{"time": "2026-06-28T06:42:46", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:47", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:39224 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39224 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:51", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:52", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:54656 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:42:57", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:42:57", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     127.0.0.1:59908 - "GET /health HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:43:02", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+{"time": "2026-06-28T06:43:03", "level": "INFO", "name": "faster_whisper", "msg": "Processing audio with duration 00:03.000"}
+INFO:     [IP-DISAMARKAN]:40086 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40086 - "GET /metrics/ HTTP/1.1" 200 OK
+{"time": "2026-06-28T06:43:07", "level": "INFO", "name": "faster_whisper", "msg": "Detected language 'en' with probability 0.52"}
+INFO:     [IP-DISAMARKAN]:54774 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54774 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41506 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33978 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50324 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50324 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38206 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38206 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55882 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36248 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43840 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43840 - "GET /metrics/ HTTP/1.1" 200 OK

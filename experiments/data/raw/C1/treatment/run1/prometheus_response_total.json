@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_response_total",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "response_category": "full",
+          "run": "1",
+          "scenario": "C1"
+        },
+        "value": [
+          1782654172.304,
+          "154"
+        ]
+      },
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_response_total",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "response_category": "failure",
+          "run": "1",
+          "scenario": "C1"
+        },
+        "value": [
+          1782654172.304,
+          "5"
+        ]
+      },
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_response_total",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "response_category": "partial",
+          "run": "1",
+          "scenario": "C1"
+        },
+        "value": [
+          1782654172.304,
+          "188"
+        ]
+      }
+    ]
+  }
+}

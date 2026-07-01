@@ -1,0 +1,11 @@
+id,experiment_run_id,scenario,condition,run_number,event_type,target_service,event_time,notes
+461,151,C1,treatment,1,fault_injected,speech,2026-06-28 13:29:55.423134+00:00,
+462,151,C1,treatment,1,fault_stage_started,speech,2026-06-28 13:29:55.431602+00:00,stage=1
+463,151,C1,treatment,1,fault_stage_finished,speech,2026-06-28 13:30:56.687412+00:00,stage=1
+464,151,C1,treatment,1,fault_stage_started,speech,2026-06-28 13:30:56.695746+00:00,stage=2
+465,151,C1,treatment,1,fault_stage_finished,speech,2026-06-28 13:31:57.885817+00:00,stage=2
+466,151,C1,treatment,1,fault_stage_started,speech,2026-06-28 13:31:57.893461+00:00,stage=3
+467,151,C1,treatment,1,fault_stage_finished,speech,2026-06-28 13:35:04.744880+00:00,stage=3
+468,151,C1,treatment,1,fault_finished,speech,2026-06-28 13:35:04.752480+00:00,
+469,,C1,treatment,1,recovery_started,all,2026-06-28 13:37:39.085169+00:00,
+470,,C1,treatment,1,recovered,all,2026-06-28 13:38:25.734982+00:00,

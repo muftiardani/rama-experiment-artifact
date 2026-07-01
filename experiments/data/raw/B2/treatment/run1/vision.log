@@ -1,0 +1,1000 @@
+INFO:     [IP-DISAMARKAN]:50818 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47468 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58786 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44434 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44434 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49036 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49036 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57372 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39244 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40600 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40600 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38146 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38146 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55034 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35646 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54510 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54510 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40886 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40886 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60514 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48812 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33302 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33302 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39916 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39916 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49440 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39860 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48268 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48268 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58124 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58124 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52242 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39560 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59250 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59250 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48838 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48838 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60580 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53466 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54560 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54560 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41994 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41994 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48192 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58200 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56332 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56332 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50446 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50446 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42296 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44636 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56278 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56278 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55442 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55442 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56388 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50918 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36804 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36804 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55872 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55872 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47208 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37926 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58244 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58244 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33250 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33250 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60248 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59962 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59962 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57076 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34274 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34274 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51270 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44706 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44706 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40294 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59448 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59448 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49794 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55152 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55152 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39012 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33448 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33448 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42286 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47358 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47358 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54438 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45530 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45530 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47182 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33512 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33512 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59684 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42524 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42524 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39138 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38706 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38706 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34796 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49188 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49188 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55850 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55184 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55184 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58078 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51668 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51668 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42240 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34074 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34074 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39332 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50150 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50150 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57228 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47338 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47338 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40574 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59116 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59116 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53510 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36678 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36678 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54380 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58906 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58906 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50706 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60474 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60474 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43280 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40930 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40930 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36814 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49416 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49416 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54076 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54076 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53682 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54564 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34902 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34902 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52732 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36880 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59864 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59864 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54162 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54162 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50044 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59900 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58218 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58218 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55406 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55406 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45776 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60770 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59502 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59502 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40152 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40152 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50374 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56314 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59886 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59886 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44290 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44290 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47162 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38790 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38244 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38244 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41420 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41420 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60530 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34754 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39188 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39188 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44324 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44324 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48358 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47180 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44376 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44376 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37756 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37756 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55766 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60216 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41016 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41016 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46032 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46032 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35780 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32850 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54716 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54716 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40542 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40542 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:32988 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45346 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53452 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53452 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59524 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59524 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35446 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35570 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48090 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48090 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45566 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45566 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36810 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52298 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34086 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34086 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38074 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38074 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50058 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52924 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56654 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56654 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60792 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60792 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55492 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40090 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33156 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33156 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46232 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46232 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55700 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54372 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51378 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51378 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45440 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45440 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49278 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49042 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53688 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53688 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38914 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38914 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48164 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59806 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38130 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38130 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51480 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51480 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48386 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36890 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44242 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44242 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55626 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55626 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60014 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43876 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40638 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40638 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34312 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34312 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44002 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39094 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39094 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56946 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46978 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46978 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44122 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46554 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46554 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53580 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37274 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37274 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38052 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57778 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57778 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45062 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56778 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56778 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51968 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43280 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43280 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56726 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56726 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47376 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41814 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41814 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45834 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55060 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55060 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34538 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33118 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33118 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52722 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42036 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42036 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44736 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46050 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46050 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58558 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59928 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59928 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59516 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37216 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37216 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53384 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59316 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59316 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55230 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36016 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36016 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52856 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48768 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48768 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54836 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42522 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42522 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41204 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46870 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46870 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39340 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40854 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40854 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55542 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54358 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54358 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34090 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46076 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46076 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46826 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60810 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60810 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60610 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59042 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59042 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58386 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60816 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60816 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40606 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33094 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33094 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55822 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35432 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35432 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60914 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60914 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49874 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32980 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53990 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53990 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47154 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47154 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35744 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45898 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46464 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46464 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50206 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50206 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40202 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34474 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54448 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54448 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37708 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37708 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43706 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39274 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54502 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54502 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38438 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38438 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47756 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48796 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59622 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59622 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45616 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45616 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57156 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55594 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58076 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58076 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35886 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35886 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57162 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48158 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41222 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41222 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42780 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42780 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49396 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34168 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41080 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41080 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53064 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53064 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48720 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39834 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49074 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49074 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38498 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38498 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54548 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56158 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54624 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54624 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39870 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39870 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60048 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53798 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53820 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53820 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45582 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45582 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40100 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43166 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52196 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52196 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52618 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52618 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37900 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57000 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33080 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33080 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43284 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43284 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34260 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58814 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59320 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59320 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50344 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50344 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54156 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55348 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50936 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50936 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57224 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57224 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59446 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39106 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46568 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46568 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44382 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44382 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33240 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56560 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43164 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43164 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50350 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50350 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42422 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54526 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52882 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52882 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58382 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58382 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36058 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35216 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57834 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57834 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:32804 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:32804 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44242 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45674 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45534 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45534 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51076 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51076 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60206 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60858 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40198 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40198 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59834 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59834 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47072 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38380 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38380 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45924 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58300 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58300 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45744 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57210 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57210 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50026 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34552 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34552 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45058 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53526 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53526 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43814 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36772 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36772 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34502 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48806 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48806 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47934 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47934 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60082 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46020 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49530 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49530 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34826 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34826 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59258 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45394 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43524 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43524 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56260 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56260 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51888 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42574 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35876 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35876 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40764 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40764 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50440 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55964 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44344 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44344 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60208 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60208 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57010 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51724 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34372 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34372 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59096 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59096 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59094 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60808 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37912 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37912 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36598 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36598 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54584 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56430 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37550 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37550 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50668 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50668 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39230 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60662 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39606 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39606 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37146 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37146 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42930 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38622 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41018 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41018 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36110 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36110 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46478 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48046 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57790 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57790 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42900 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42900 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47400 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50814 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42630 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42630 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37690 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37690 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47588 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52686 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52686 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44334 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47094 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47094 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52724 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53602 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53602 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39232 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36780 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36780 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53680 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40108 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40108 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33406 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53214 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53214 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59864 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37760 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37760 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57478 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57386 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57386 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45750 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49998 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49998 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57052 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45888 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45888 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42262 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47228 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47228 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55990 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46486 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46486 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37638 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56748 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56748 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59202 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36156 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36156 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33708 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56494 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56494 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49528 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41266 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41266 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55626 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45054 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45054 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58222 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41990 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41990 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40546 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50720 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50720 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46212 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56588 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56588 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35146 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43304 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43304 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33050 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44996 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44996 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37270 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43234 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43234 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37524 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39104 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39104 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51392 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49036 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49036 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41792 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41348 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41348 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38632 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60286 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60286 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52766 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33114 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33114 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35690 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33976 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33976 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43396 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49362 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49362 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55328 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43618 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43618 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56222 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53204 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53204 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45752 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40114 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40114 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53888 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51656 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51656 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48344 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41878 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41878 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60674 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45028 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45028 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54892 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60566 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60566 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46466 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36430 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36430 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44036 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37164 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37164 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35920 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51218 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51218 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33070 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34354 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34354 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49698 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43000 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43000 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33322 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34782 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34782 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50218 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35614 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35614 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40576 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57290 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57290 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49682 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49682 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35414 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39466 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47712 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47712 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46634 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46634 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56084 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48888 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43352 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43352 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50998 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50998 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37970 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47862 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56706 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56706 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50392 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50392 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59396 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50428 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50428 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45482 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40840 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40840 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55822 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59406 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59406 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35618 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39760 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39760 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33006 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35956 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35956 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47894 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54914 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54914 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36112 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40664 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40664 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54226 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55540 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55540 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59764 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49892 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49892 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40444 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47224 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47224 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51374 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49472 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49472 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44310 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58536 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58536 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43028 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35668 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35668 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39750 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34016 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34016 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49748 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48216 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48216 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47438 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45384 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45384 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45622 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45622 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56526 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45694 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53698 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53698 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40266 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40266 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48308 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49682 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42536 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42536 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42324 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42324 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60842 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36698 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43448 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43448 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37104 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42594 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33626 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33626 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50926 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50926 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58110 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36102 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42984 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42984 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48580 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48580 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55110 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58746 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41614 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41614 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52686 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52686 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58624 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44550 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51374 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51374 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44584 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:44584 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49598 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53350 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37210 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37210 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60198 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60198 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36632 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36442 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40040 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40040 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42828 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42828 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60264 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48126 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45570 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:45570 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34488 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34488 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43210 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37548 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:32996 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:32996 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38646 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38646 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60850 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53026 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42340 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42340 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58002 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58002 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59646 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35296 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54844 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54844 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53716 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53716 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60712 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50880 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57384 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57384 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52172 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:52172 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46306 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47542 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51392 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51392 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39898 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39898 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60968 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33150 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58430 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58430 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48170 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54416 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40482 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53864 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53864 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46918 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35888 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35888 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46390 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43628 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43628 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40110 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33612 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33612 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33814 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49772 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49772 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38150 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56166 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56166 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49194 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47904 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47904 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55688 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49082 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:49082 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49072 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48700 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48700 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55052 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36772 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36772 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38680 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53282 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53282 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:48746 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:48746 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47598 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42454 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41018 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41018 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34938 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34938 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40204 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:49208 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47776 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:47776 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46102 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46102 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54802 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53544 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:60836 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:60836 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:39790 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:39790 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59680 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46256 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46256 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:52008 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41160 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:41160 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53486 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:50634 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:50634 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56392 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51682 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51682 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45520 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40794 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40794 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:41192 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33928 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33928 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35096 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46550 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:46550 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44892 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42056 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42056 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58134 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:35608 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:35608 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51122 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:37312 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:37312 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43748 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:42890 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:42890 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:46594 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55346 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:55346 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46634 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40620 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40620 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54102 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36812 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36812 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56996 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:38280 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:38280 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:44538 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:33866 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:33866 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56178 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57696 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:57696 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:55708 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59448 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59448 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39650 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:54672 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:54672 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57608 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:53510 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:53510 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53032 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:51906 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:51906 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:59046 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:59046 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:45426 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46252 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:56770 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:56770 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:43110 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:43110 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:57946 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55344 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:34542 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:34542 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:36710 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:36710 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:47188 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47352 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58230 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:58230 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40120 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40120 - "GET /metrics/ HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:58078 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44432 - "GET /health HTTP/1.1" 200 OK
+INFO:     [IP-DISAMARKAN]:40132 - "GET /metrics HTTP/1.1" 307 Temporary Redirect
+INFO:     [IP-DISAMARKAN]:40132 - "GET /metrics/ HTTP/1.1" 200 OK

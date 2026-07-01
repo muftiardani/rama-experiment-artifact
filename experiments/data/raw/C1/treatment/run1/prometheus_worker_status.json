@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_worker_status",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "run": "1",
+          "scenario": "C1",
+          "worker": "ocr"
+        },
+        "value": [
+          1782654172.317,
+          "0"
+        ]
+      },
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_worker_status",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "run": "1",
+          "scenario": "C1",
+          "worker": "speech"
+        },
+        "value": [
+          1782654172.317,
+          "0"
+        ]
+      },
+      {
+        "metric": {
+          "__name__": "temandifa_experiment_worker_status",
+          "condition": "treatment",
+          "instance": "backend:8080",
+          "job": "backend",
+          "run": "1",
+          "scenario": "C1",
+          "worker": "vision"
+        },
+        "value": [
+          1782654172.317,
+          "0"
+        ]
+      }
+    ]
+  }
+}

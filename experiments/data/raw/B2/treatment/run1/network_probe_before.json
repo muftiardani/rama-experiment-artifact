@@ -1,0 +1,18 @@
+{
+  "phase": "before",
+  "load_generator_location": "laptop",
+  "target_url": "http://[IP-DISAMARKAN]",
+  "hostname": "VM-6-188-ubuntu",
+  "public_ip_hash": "sha256:bbeffe81f78a5b2f",
+  "k6_version": "k6 v2.0.0 (commit/8c3be52cc1, go1.26.3, linux/amd64)",
+  "ping_avg_ms": 0.741,
+  "packet_loss_percent": 0.0,
+  "dns_resolved": "sha256:e7b5a5aff296c08b",
+  "http_health_status": 404,
+  "http_ready_status": 404,
+  "client_timestamp": "2026-06-28T00:39:44.479849+00:00",
+  "server_timestamp": "Sun, 28 Jun 2026 00:39:44 GMT",
+  "scenario": "B2",
+  "condition": "treatment",
+  "run": 1
+}

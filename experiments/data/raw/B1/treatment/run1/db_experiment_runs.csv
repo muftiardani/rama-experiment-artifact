@@ -1,0 +1,2 @@
+id,scenario,condition,run_number,started_at,ended_at,commit_hash,notes,created_at,experiment_id,repetition_index,manifest_name,k6_max_vu,request_timeout_sec,load_gen_location,target_host,status,invalid_reason
+91,B1,treatment,1,2026-06-27 18:48:34.011178+00:00,2026-06-27 18:59:39.252214+00:00,,via experimentctl,2026-06-27 18:48:34.011263+00:00,rama-static-vs-treatment-final,1,/home/ubuntu/temandifa/automation/manifests/vps-loadgen-final-static-vs-rama.yaml,5,90,vps-loadgen,http://[IP-DISAMARKAN]/api,completed,

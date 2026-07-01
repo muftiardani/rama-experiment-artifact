@@ -1,0 +1,9 @@
+temandifa_backend	Up 12 minutes (healthy)
+temandifa_db	Up 24 hours (healthy)
+temandifa_redis	Up 24 hours (healthy)
+temandifa_ocr	Up 24 hours (healthy)
+temandifa_vision	Up 14 hours (healthy)
+temandifa_prometheus	Up 24 hours
+temandifa_speech	Up 14 hours (healthy)
+temandifa_grafana	Up 24 hours
+temandifa_alertmanager	Up 24 hours

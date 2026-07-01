@@ -1,0 +1,5 @@
+id,experiment_run_id,scenario,condition,run_number,event_type,target_service,event_time,notes
+201,101,B2,static_resilience,1,fault_injected,speech,2026-06-27 21:49:17.944690+00:00,
+202,101,B2,static_resilience,1,fault_finished,speech,2026-06-27 21:49:43.670510+00:00,
+203,,B2,static_resilience,1,recovery_started,all,2026-06-27 21:52:18.104428+00:00,
+204,,B2,static_resilience,1,recovered,all,2026-06-27 21:53:14.947748+00:00,

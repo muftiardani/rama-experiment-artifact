@@ -1,0 +1,130 @@
+{
+  "status": "success",
+  "data": {
+    "activeTargets": [
+      {
+        "discoveredLabels": {
+          "__address__": "backend:8080",
+          "__metrics_path__": "/metrics",
+          "__scheme__": "http",
+          "__scrape_interval__": "5s",
+          "__scrape_timeout__": "5s",
+          "job": "backend"
+        },
+        "labels": {
+          "instance": "backend:8080",
+          "job": "backend"
+        },
+        "scrapePool": "backend",
+        "scrapeUrl": "http://backend:8080/metrics",
+        "globalUrl": "http://backend:8080/metrics",
+        "lastError": "",
+        "lastScrape": "2026-06-27T19:00:17.61145222Z",
+        "lastScrapeDuration": 0.003098082,
+        "health": "up",
+        "scrapeInterval": "5s",
+        "scrapeTimeout": "5s"
+      },
+      {
+        "discoveredLabels": {
+          "__address__": "ocr-worker:8002",
+          "__metrics_path__": "/metrics",
+          "__scheme__": "http",
+          "__scrape_interval__": "15s",
+          "__scrape_timeout__": "10s",
+          "job": "ocr-worker"
+        },
+        "labels": {
+          "instance": "ocr-worker:8002",
+          "job": "ocr-worker"
+        },
+        "scrapePool": "ocr-worker",
+        "scrapeUrl": "http://ocr-worker:8002/metrics",
+        "globalUrl": "http://ocr-worker:8002/metrics",
+        "lastError": "",
+        "lastScrape": "2026-06-27T19:00:17.24668284Z",
+        "lastScrapeDuration": 0.003103453,
+        "health": "up",
+        "scrapeInterval": "15s",
+        "scrapeTimeout": "10s"
+      },
+      {
+        "discoveredLabels": {
+          "__address__": "localhost:9090",
+          "__metrics_path__": "/metrics",
+          "__scheme__": "http",
+          "__scrape_interval__": "15s",
+          "__scrape_timeout__": "10s",
+          "job": "prometheus"
+        },
+        "labels": {
+          "instance": "localhost:9090",
+          "job": "prometheus"
+        },
+        "scrapePool": "prometheus",
+        "scrapeUrl": "http://localhost:9090/metrics",
+        "globalUrl": "http://c50e53d7f43a:9090/metrics",
+        "lastError": "",
+        "lastScrape": "2026-06-27T19:00:13.490417446Z",
+        "lastScrapeDuration": 0.005567421,
+        "health": "up",
+        "scrapeInterval": "15s",
+        "scrapeTimeout": "10s"
+      },
+      {
+        "discoveredLabels": {
+          "__address__": "speech-worker:8003",
+          "__metrics_path__": "/metrics",
+          "__scheme__": "http",
+          "__scrape_interval__": "15s",
+          "__scrape_timeout__": "10s",
+          "job": "speech-worker"
+        },
+        "labels": {
+          "instance": "speech-worker:8003",
+          "job": "speech-worker"
+        },
+        "scrapePool": "speech-worker",
+        "scrapeUrl": "http://speech-worker:8003/metrics",
+        "globalUrl": "http://speech-worker:8003/metrics",
+        "lastError": "",
+        "lastScrape": "2026-06-27T19:00:04.933435362Z",
+        "lastScrapeDuration": 0.003504453,
+        "health": "up",
+        "scrapeInterval": "15s",
+        "scrapeTimeout": "10s"
+      },
+      {
+        "discoveredLabels": {
+          "__address__": "vision-worker:8001",
+          "__metrics_path__": "/metrics",
+          "__scheme__": "http",
+          "__scrape_interval__": "15s",
+          "__scrape_timeout__": "10s",
+          "job": "vision-worker"
+        },
+        "labels": {
+          "instance": "vision-worker:8001",
+          "job": "vision-worker"
+        },
+        "scrapePool": "vision-worker",
+        "scrapeUrl": "http://vision-worker:8001/metrics",
+        "globalUrl": "http://vision-worker:8001/metrics",
+        "lastError": "",
+        "lastScrape": "2026-06-27T19:00:05.366032751Z",
+        "lastScrapeDuration": 0.003022965,
+        "health": "up",
+        "scrapeInterval": "15s",
+        "scrapeTimeout": "10s"
+      }
+    ],
+    "droppedTargets": [],
+    "droppedTargetCounts": {
+      "backend": 0,
+      "ocr-worker": 0,
+      "prometheus": 0,
+      "speech-worker": 0,
+      "vision-worker": 0
+    }
+  }
+}

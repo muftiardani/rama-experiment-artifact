@@ -1,0 +1,10 @@
+NAME                     CPU %     MEM USAGE / LIMIT    MEM %
+temandifa_backend        0.00%     41.28MiB / 512MiB    8.06%
+temandifa_db             0.01%     48.73MiB / 1.5GiB    3.17%
+temandifa_redis          0.38%     8.73MiB / 128MiB     6.82%
+temandifa_ocr            0.46%     207.2MiB / 1GiB      20.23%
+temandifa_vision         7.17%     152.8MiB / 768MiB    19.90%
+temandifa_prometheus     0.16%     54.55MiB / 128MiB    42.61%
+temandifa_speech         0.18%     315.9MiB / 1.25GiB   24.68%
+temandifa_grafana        0.33%     141.1MiB / 256MiB    55.13%
+temandifa_alertmanager   0.05%     21.62MiB / 64MiB     33.78%

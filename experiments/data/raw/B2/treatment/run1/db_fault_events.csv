@@ -1,0 +1,5 @@
+id,experiment_run_id,scenario,condition,run_number,event_type,target_service,event_time,notes
+241,111,B2,treatment,1,fault_injected,speech,2026-06-28 00:44:52.349340+00:00,
+242,111,B2,treatment,1,fault_finished,speech,2026-06-28 00:45:16.124159+00:00,
+243,,B2,treatment,1,recovery_started,all,2026-06-28 00:47:50.417916+00:00,
+244,,B2,treatment,1,recovered,all,2026-06-28 00:48:42.180946+00:00,

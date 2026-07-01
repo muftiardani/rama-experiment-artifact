@@ -1,0 +1,9 @@
+temandifa_backend	temandifa-backend	Up 2 hours (healthy)	127.0.0.1:8080->8080/tcp
+temandifa_db	postgres:15-alpine	Up 12 hours (healthy)	127.0.0.1:5433->5432/tcp
+temandifa_redis	redis:7-alpine	Up 12 hours (healthy)	6379/tcp
+temandifa_ocr	temandifa-ocr-worker	Up 12 hours (healthy)	8002/tcp, 50052/tcp
+temandifa_vision	temandifa-vision-worker	Up 3 hours (healthy)	8001/tcp, 50051/tcp
+temandifa_prometheus	prom/prometheus:latest	Up 12 hours	127.0.0.1:9090->9090/tcp
+temandifa_speech	temandifa-speech-worker	Up 3 hours (healthy)	8003/tcp, 50053/tcp
+temandifa_grafana	grafana/grafana:latest	Up 12 hours	127.0.0.1:3001->3000/tcp
+temandifa_alertmanager	prom/alertmanager:latest	Up 12 hours	127.0.0.1:9093->9093/tcp
