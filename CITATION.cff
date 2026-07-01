@@ -6,6 +6,7 @@ authors:
   - family-names: "Ardani"
     given-names: "Muhammad Mufti"
 repository-code: "https://github.com/muftiardani/rama-experiment-artifact"
+doi: "10.5281/zenodo.21105490"
 abstract: "Artifact package for RAMA (Resilient AI Microservices Architecture), a resilient microservices architecture for multi-model AI inference on a single-node resource-constrained environment."
 keywords:
   - RAMA
