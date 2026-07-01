@@ -1,0 +1,319 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: temandifa_db
+    restart: unless-stopped
+    command:
+      - "postgres"
+      - "-c"
+      - "config_file=/etc/postgresql/postgresql.conf"
+    environment:
+      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_DB: ${DB_NAME:-temandifa}
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./infra/postgres/postgresql.conf:/etc/postgresql/postgresql.conf:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-temandifa}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 1536M
+
+  redis:
+    image: redis:7-alpine
+    container_name: temandifa_redis
+    restart: unless-stopped
+    expose:
+      - "6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 128M
+
+  vision-worker:
+    build:
+      context: ./temandifa-vision-worker
+      dockerfile: Dockerfile
+    container_name: temandifa_vision
+    restart: unless-stopped
+    environment:
+      - WORKER_VERSION=1.0.0
+      - ENVIRONMENT=production
+      - REQUIRE_GRPC_AUTH=true
+      - GRPC_AUTH_TOKEN=${AI_GRPC_TOKEN:?AI_GRPC_TOKEN must be set}
+      - METRICS_TOKEN=${METRICS_TOKEN:?METRICS_TOKEN must be set}
+      - GRPC_TLS_ENABLED=${AI_GRPC_TLS:?AI_GRPC_TLS must be set for release deployments}
+      - GRPC_TLS_CERT_FILE=${GRPC_TLS_CERT_FILE:-/run/secrets/grpc/server.crt}
+      - GRPC_TLS_KEY_FILE=${GRPC_TLS_KEY_FILE:-/run/secrets/grpc/server.key}
+    volumes:
+      - vision_models:/app/models
+      - ${GRPC_TLS_CERT_DIR:-./infra/tls/grpc}:/run/secrets/grpc:ro
+    deploy:
+      resources:
+        limits:
+          cpus: "0.80"
+          memory: 768M
+        reservations:
+          cpus: "0.30"
+          memory: 256M
+    # Lifespan melakukan grpc_process.join(timeout=35); beri waktu cukup agar
+    # subprocess gRPC berhenti sebelum Docker mengirim SIGKILL.
+    stop_grace_period: 45s
+    healthcheck:
+      test: ["CMD", "python3", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8001/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  ocr-worker:
+    build:
+      context: ./temandifa-ocr-worker
+      dockerfile: Dockerfile
+    container_name: temandifa_ocr
+    restart: unless-stopped
+    environment:
+      - WORKER_VERSION=1.0.0
+      - ENVIRONMENT=production
+      - REQUIRE_GRPC_AUTH=true
+      - GRPC_AUTH_TOKEN=${AI_GRPC_TOKEN:?AI_GRPC_TOKEN must be set}
+      - METRICS_TOKEN=${METRICS_TOKEN:?METRICS_TOKEN must be set}
+      - GRPC_TLS_ENABLED=${AI_GRPC_TLS:?AI_GRPC_TLS must be set for release deployments}
+      - GRPC_TLS_CERT_FILE=${GRPC_TLS_CERT_FILE:-/run/secrets/grpc/server.crt}
+      - GRPC_TLS_KEY_FILE=${GRPC_TLS_KEY_FILE:-/run/secrets/grpc/server.key}
+      - OCR_LANGUAGE=${OCR_LANGUAGE:-id}
+    volumes:
+      - ocr_models:/app/models
+      - ${GRPC_TLS_CERT_DIR:-./infra/tls/grpc}:/run/secrets/grpc:ro
+    deploy:
+      resources:
+        limits:
+          # PaddleOCR 2.7 + PaddlePaddle 2.6 + MKL-DNN membutuhkan ~800MB-1GB
+          # saat inference. 512MB menyebabkan OOM-kill di bawah beban normal.
+          cpus: "0.50"
+          memory: 1024M
+        reservations:
+          cpus: "0.20"
+          memory: 512M
+    # Lifespan melakukan grpc_process.join(timeout=35); beri waktu cukup agar
+    # subprocess gRPC berhenti sebelum Docker mengirim SIGKILL.
+    stop_grace_period: 45s
+    healthcheck:
+      test: ["CMD", "python3", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8002/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+
+  speech-worker:
+    build:
+      context: ./temandifa-speech-worker
+      dockerfile: Dockerfile
+    container_name: temandifa_speech
+    restart: unless-stopped
+    environment:
+      - WORKER_VERSION=1.0.0
+      - ENVIRONMENT=production
+      - REQUIRE_GRPC_AUTH=true
+      - WHISPER_MODEL_SIZE=${WHISPER_MODEL_SIZE:-base}
+      - WHISPER_VAD_FILTER=${WHISPER_VAD_FILTER:-true}
+      - GRPC_AUTH_TOKEN=${AI_GRPC_TOKEN:?AI_GRPC_TOKEN must be set}
+      - METRICS_TOKEN=${METRICS_TOKEN:?METRICS_TOKEN must be set}
+      - GRPC_TLS_ENABLED=${AI_GRPC_TLS:?AI_GRPC_TLS must be set for release deployments}
+      - GRPC_TLS_CERT_FILE=${GRPC_TLS_CERT_FILE:-/run/secrets/grpc/server.crt}
+      - GRPC_TLS_KEY_FILE=${GRPC_TLS_KEY_FILE:-/run/secrets/grpc/server.key}
+    shm_size: "512m"
+    volumes:
+      - speech_models:/app/models
+      - ${GRPC_TLS_CERT_DIR:-./infra/tls/grpc}:/run/secrets/grpc:ro
+    deploy:
+      resources:
+        limits:
+          cpus: "0.40"
+          memory: 1280M
+        reservations:
+          cpus: "0.10"
+          memory: 768M
+    # Lifespan melakukan grpc_process.join(timeout=35) — container harus tetap
+    # hidup setidaknya 40s agar join bisa selesai secara alami sebelum force-kill.
+    stop_grace_period: 45s
+    healthcheck:
+      test: ["CMD", "python3", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8003/health')"]
+      interval: 30s
+      timeout: 15s
+      retries: 3
+      start_period: 120s
+
+  backend:
+    build:
+      context: ./temandifa-backend
+      dockerfile: Dockerfile
+    container_name: temandifa_backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      vision-worker:
+        condition: service_healthy
+      ocr-worker:
+        condition: service_healthy
+      speech-worker:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      - PORT=8080
+      - GIN_MODE=release
+      - DB_DSN=host=postgres user=${DB_USER:-postgres} password=${DB_PASSWORD:-postgres} dbname=${DB_NAME:-temandifa} port=5432 sslmode=disable TimeZone=Asia/Jakarta
+      - REDIS_ADDR=redis:6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD:-}
+      - AI_VISION_HTTP_ADDR=http://vision-worker:8001
+      - AI_OCR_HTTP_ADDR=http://ocr-worker:8002
+      - AI_SPEECH_HTTP_ADDR=http://speech-worker:8003
+      - AI_VISION_GRPC_ADDR=vision-worker:50051
+      - AI_OCR_GRPC_ADDR=ocr-worker:50052
+      - AI_SPEECH_GRPC_ADDR=speech-worker:50053
+      # gRPC auth token — harus cocok dengan GRPC_AUTH_TOKEN di setiap AI worker.
+      # Biarkan kosong untuk menonaktifkan autentikasi gRPC (dev only).
+      - AI_GRPC_TOKEN=${AI_GRPC_TOKEN:?AI_GRPC_TOKEN must be set}
+      - AI_GRPC_TLS=${AI_GRPC_TLS:?AI_GRPC_TLS must be set for release deployments}
+      - AI_GRPC_CA_FILE=${AI_GRPC_CA_FILE:-/run/secrets/grpc/ca.crt}
+      - AI_GRPC_SERVER_NAME=${AI_GRPC_SERVER_NAME:-ai-worker.local}
+      - AI_OCR_LANGUAGE=${OCR_LANGUAGE:-id}
+      - AI_DETECT_TIMEOUT=${AI_DETECT_TIMEOUT:-30s}
+      - AI_OCR_TIMEOUT=${AI_OCR_TIMEOUT:-45s}
+      - AI_TRANSCRIBE_TIMEOUT=${AI_TRANSCRIBE_TIMEOUT:-60s}
+      - AI_MULTIMODAL_TIMEOUT=${AI_MULTIMODAL_TIMEOUT:-60s}
+      - RATE_LIMIT_REQUESTS=${RATE_LIMIT_REQUESTS:-60}
+      - RATE_LIMIT_WINDOW=${RATE_LIMIT_WINDOW:-60}
+      - AI_RATE_LIMIT_REQUESTS=${AI_RATE_LIMIT_REQUESTS:-10}
+      - AI_RATE_LIMIT_WINDOW=${AI_RATE_LIMIT_WINDOW:-60}
+      # Auth — WAJIB diisi di production. Tidak ada fallback yang aman;
+      # jika JWT_SECRET kosong, server akan gagal start (validasi config.go).
+      # Generate dengan: openssl rand -base64 48
+      - JWT_SECRET=${JWT_SECRET}
+      - JWT_ACCESS_TOKEN_DURATION=${JWT_ACCESS_TOKEN_DURATION:-15m}
+      # CORS — origin yang diizinkan, pisahkan dengan koma (misal: https://[domain-frontend]).
+      # Kosong di mode release = tolak semua CORS request. Wajib diisi di produksi.
+      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS:-}
+      - HEALTH_CHECK_INTERVAL=${HEALTH_CHECK_INTERVAL:-15s}
+      - FALLBACK_STATE_TTL=${FALLBACK_STATE_TTL:-300s}
+      - METRICS_TOKEN=${METRICS_TOKEN:-rama-exp-metrics}
+      - SENTRY_DSN=${SENTRY_DSN:-}
+      - EXPERIMENT_EMAIL=${EXPERIMENT_EMAIL:-}
+      - DB_MAX_OPEN_CONNS=${DB_MAX_OPEN_CONNS:-10}
+      - DB_MAX_IDLE_CONNS=${DB_MAX_IDLE_CONNS:-5}
+      - DB_CONN_MAX_LIFETIME=${DB_CONN_MAX_LIFETIME:-5m}
+      - DB_CONN_MAX_IDLE_TIME=${DB_CONN_MAX_IDLE_TIME:-1m}
+    volumes:
+      - ${GRPC_TLS_CERT_DIR:-./infra/tls/grpc}:/run/secrets/grpc:ro
+    # fx.StopTimeout=45s + srv.Shutdown=30s: beri waktu cukup agar request
+    # in-flight selesai sebelum Docker SIGKILL. Default Docker adalah 10s.
+    stop_grace_period: 60s
+    deploy:
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: 512M
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: temandifa_prometheus
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus/alerts.yml:/etc/prometheus/alerts.yml
+      - prometheus_data:/prometheus
+    secrets:
+      - metrics_token
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.10"
+          memory: 128M
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    container_name: temandifa_alertmanager
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:9093:9093"
+    volumes:
+      - ./prometheus/alertmanager.yml:/etc/alertmanager/alertmanager.yml:ro
+      - alertmanager_data:/alertmanager
+    secrets:
+      - alertmanager_webhook_url
+    command:
+      - "--config.file=/etc/alertmanager/alertmanager.yml"
+      - "--storage.path=/alertmanager"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.05"
+          memory: 64M
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: temandifa_grafana
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER:?GRAFANA_ADMIN_USER must be set}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD:?GRAFANA_ADMIN_PASSWORD must be set}
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+      - grafana_data:/var/lib/grafana
+    deploy:
+      resources:
+        limits:
+          cpus: "0.10"
+          memory: 256M
+
+volumes:
+  postgres_data:
+  redis_data:
+  vision_models:
+  ocr_models:
+  speech_models:
+  prometheus_data:
+  alertmanager_data:
+  grafana_data:
+
+secrets:
+  metrics_token:
+    environment: METRICS_TOKEN
+  alertmanager_webhook_url:
+    # Required by prometheus/alertmanager.yml receiver.
+    environment: ALERTMANAGER_WEBHOOK_URL
+
+networks:
+  default:
+    name: temandifa_network

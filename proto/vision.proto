@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package vision;
+option go_package = "temandifa-backend/internal/grpc/vision";
+
+service VisionService {
+  rpc DetectObjects(DetectRequest) returns (DetectResponse);
+  rpc HealthCheck(HealthRequest) returns (HealthResponse);
+}
+
+message DetectRequest {
+  bytes image_data = 1;
+  string image_format = 2;
+  float confidence_threshold = 3;
+}
+
+message DetectionObject {
+  string label = 1;
+  float confidence = 2;
+  float x1 = 3;
+  float y1 = 4;
+  float x2 = 5;
+  float y2 = 6;
+}
+
+message DetectResponse {
+  repeated DetectionObject objects = 1;
+  int32 total_detected = 2;
+  float inference_time_ms = 3;
+  string service_level = 4;
+}
+
+message HealthRequest {}
+
+message HealthResponse {
+  string status = 1;
+  string model_loaded = 2;
+  float memory_usage_mb = 3;
+  float cpu_usage_percent = 4;
+  string version = 5;
+}

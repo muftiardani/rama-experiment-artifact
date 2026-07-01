@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "InvalidRun",
+  "type": "object",
+  "required": ["scenario", "condition", "run", "valid"],
+  "properties": {
+    "scenario":      { "type": "string", "enum": ["SS","A1","A2","A3","B1","B2","B3","C1","C2"] },
+    "condition":     { "type": "string", "enum": ["baseline", "treatment"] },
+    "run":           { "type": "integer", "minimum": 1, "maximum": 3 },
+    "valid":         { "type": "boolean" },
+    "invalid_codes": { "type": "array", "items": { "type": "string" } },
+    "reasons":       { "type": "array", "items": { "type": "string" } },
+    "retryable":     { "type": "boolean" },
+    "retry_attempt": { "type": "integer" }
+  }
+}

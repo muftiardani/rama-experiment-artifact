@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "RAMA TemanDifa Artifact Package"
+message: "If you use this artifact package, please cite the associated undergraduate thesis."
+type: software
+authors:
+  - family-names: "Ardani"
+    given-names: "Muhammad Mufti"
+repository-code: "https://github.com/muftiardani/rama-experiment-artifact"
+abstract: "Artifact package for RAMA (Resilient AI Microservices Architecture), a resilient microservices architecture for multi-model AI inference on a single-node resource-constrained environment."
+keywords:
+  - RAMA
+  - microservices
+  - resilience
+  - multi-model inference
+  - fault injection
+  - chaos engineering
+  - edge AI
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-06-29"

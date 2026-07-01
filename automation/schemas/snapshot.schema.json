@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Snapshot",
+  "type": "object",
+  "required": ["phase", "scenario", "condition", "run"],
+  "properties": {
+    "phase":          { "type": "string", "enum": ["before", "after"] },
+    "scenario":       { "type": "string" },
+    "condition":      { "type": "string" },
+    "run":            { "type": "integer" },
+    "health_status":  { "type": "string" },
+    "git_commit":     { "type": "string" },
+    "oom_detected":   { "type": "boolean" }
+  }
+}

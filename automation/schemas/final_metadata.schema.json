@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FinalMetadata",
+  "type": "object",
+  "required": ["experiment_name", "environment", "load_generator", "total_runs"],
+  "properties": {
+    "experiment_name":  { "type": "string" },
+    "git_commit":       { "type": "string" },
+    "started_at":       { "type": "string" },
+    "finished_at":      { "type": "string" },
+    "packaged_at":      { "type": "string" },
+    "environment":      { "type": "string", "enum": ["local", "vps"] },
+    "load_generator": {
+      "type": "object",
+      "required": ["tool", "location", "run_on_vps"],
+      "properties": {
+        "tool":       { "type": "string", "const": "k6" },
+        "location":   { "type": "string", "const": "laptop" },
+        "run_on_vps": { "type": "boolean", "const": false }
+      }
+    },
+    "total_runs":   { "type": "integer" },
+    "valid_runs":   { "type": "integer" },
+    "invalid_runs": { "type": "integer" },
+    "manifest":     { "type": "string" }
+  }
+}

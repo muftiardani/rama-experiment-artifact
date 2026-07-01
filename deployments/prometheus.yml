@@ -1,0 +1,46 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  - "alerts.yml"
+
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: ['alertmanager:9093']
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'backend'
+    scrape_interval: 5s
+    enable_compression: false
+    static_configs:
+      - targets: ['backend:8080']
+    metrics_path: '/metrics'
+    authorization:
+      credentials_file: /run/secrets/metrics_token
+
+  - job_name: 'vision-worker'
+    static_configs:
+      - targets: ['vision-worker:8001']
+    metrics_path: '/metrics'
+    authorization:
+      credentials_file: /run/secrets/metrics_token
+
+  - job_name: 'ocr-worker'
+    static_configs:
+      - targets: ['ocr-worker:8002']
+    metrics_path: '/metrics'
+    authorization:
+      credentials_file: /run/secrets/metrics_token
+
+  - job_name: 'speech-worker'
+    static_configs:
+      - targets: ['speech-worker:8003']
+    metrics_path: '/metrics'
+    authorization:
+      credentials_file: /run/secrets/metrics_token

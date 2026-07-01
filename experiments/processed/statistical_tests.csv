@@ -1,0 +1,64 @@
+scenario,metric,metric_label,direction,test_method,n_pairs,w_stat,u_stat,p_value,effect_size_r,sr_median,tr_median,relative_change_pct,improved,p_adj_holm,significant
+SS,p95_ms,p95 latency (ms),lower,wilcoxon,10,0.0,,0.000977,-1.0,25141.975,24996.25,-0.6,True,0.061551,False
+SS,p99_ms,p99 latency (ms),lower,wilcoxon,10,16.0,,0.137695,-0.4182,25210.38,25083.615,-0.5,True,1.0,False
+SS,throughput_rps,Throughput (rps),higher,wilcoxon,10,52.5,,0.004883,0.9091,0.191,0.192,0.5,True,0.24415,False
+SS,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,,,,,100.0,100.0,0.0,False,,False
+SS,tfs_seconds,TFS (s),lower,mann_whitney,0,,,,,,,,,,False
+SS,ttr_seconds,TTR (s),lower,mann_whitney,0,,,,,,,,,,False
+SS,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,0.0,,0.000977,-1.0,0.757,0.5,-33.9,True,0.061551,False
+A1,p95_ms,p95 latency (ms),lower,wilcoxon,10,32.0,,0.6875,0.1636,25187.6,25184.95,-0.0,False,1.0,False
+A1,p99_ms,p99 latency (ms),lower,wilcoxon,10,37.0,,0.838867,0.3455,25318.05,25372.42,0.2,False,1.0,False
+A1,throughput_rps,Throughput (rps),higher,wilcoxon,10,26.5,,0.577148,-0.0364,0.199,0.199,0.0,False,1.0,False
+A1,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,,,,,100.0,100.0,0.0,False,,False
+A1,tfs_seconds,TFS (s),lower,wilcoxon,10,35.0,,0.78418,0.2727,19.685,20.125,2.2,False,1.0,False
+A1,ttr_seconds,TTR (s),lower,mann_whitney,0,,,,,,,,,,False
+A1,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,,,,,0.0,0.0,,,,False
+A2,p95_ms,p95 latency (ms),lower,wilcoxon,10,18.0,,0.1875,-0.3455,48111.1,40076.65,-16.7,True,1.0,False
+A2,p99_ms,p99 latency (ms),lower,wilcoxon,10,22.0,,0.712298,0.2222,60000.0,60000.0,0.0,False,1.0,False
+A2,throughput_rps,Throughput (rps),higher,wilcoxon,10,42.0,,0.080078,0.5273,0.197,0.21,6.6,True,1.0,False
+A2,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,49.0,,0.013672,0.7818,81.91,97.34,18.8,True,0.656256,False
+A2,tfs_seconds,TFS (s),lower,wilcoxon,10,30.0,,0.615234,0.0909,28.39,27.69,-2.5,True,1.0,False
+A2,ttr_seconds,TTR (s),lower,mann_whitney,0,,,,,,,,,,False
+A2,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,11.0,,0.052734,-0.6,0.302,0.112,-62.9,True,1.0,False
+A3,p95_ms,p95 latency (ms),lower,wilcoxon,10,38.0,,0.862305,0.3818,43278.2,49319.375,14.0,False,1.0,False
+A3,p99_ms,p99 latency (ms),lower,wilcoxon,10,34.0,,0.753906,0.2364,53404.01,60000.0,12.4,False,1.0,False
+A3,throughput_rps,Throughput (rps),higher,wilcoxon,10,29.0,,0.460938,0.0545,0.185,0.198,7.0,True,1.0,False
+A3,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,21.0,,0.337212,0.1667,99.145,97.22,-1.9,False,1.0,False
+A3,tfs_seconds,TFS (s),lower,wilcoxon,10,38.0,,0.862305,0.3818,33.6,47.8,42.3,False,1.0,False
+A3,ttr_seconds,TTR (s),lower,mann_whitney,0,,,,,,,,,,False
+A3,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,20.0,,0.383548,-0.1111,0.221,0.215,-2.7,True,1.0,False
+B1,p95_ms,p95 latency (ms),lower,wilcoxon,10,16.0,,0.137695,-0.4182,25529.4,25488.9,-0.2,True,1.0,False
+B1,p99_ms,p99 latency (ms),lower,wilcoxon,10,13.0,,0.080078,-0.5273,25655.98,25587.51,-0.3,True,1.0,False
+B1,throughput_rps,Throughput (rps),higher,wilcoxon,10,22.0,,0.72168,-0.2,0.189,0.189,0.0,False,1.0,False
+B1,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,55.0,,0.000977,1.0,72.8,100.0,37.4,True,0.061551,False
+B1,tfs_seconds,TFS (s),lower,wilcoxon,10,31.0,,0.652344,0.1273,23.52,23.575,0.2,False,1.0,False
+B1,ttr_seconds,TTR (s),lower,wilcoxon,10,29.0,,0.577148,0.0545,73.655,73.445,-0.3,True,1.0,False
+B1,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,,,,,0.0,0.0,,,,False
+B2,p95_ms,p95 latency (ms),lower,wilcoxon,10,30.0,,0.615234,0.0909,24779.75,24714.975,-0.3,True,1.0,False
+B2,p99_ms,p99 latency (ms),lower,wilcoxon,10,29.0,,0.577148,0.0545,25046.105,25080.805,0.1,False,1.0,False
+B2,throughput_rps,Throughput (rps),higher,wilcoxon,10,16.0,,0.883789,-0.4182,1.043,1.042,-0.1,False,1.0,False
+B2,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,55.0,,0.000977,1.0,12.41,100.0,705.8,True,0.061551,False
+B2,tfs_seconds,TFS (s),lower,wilcoxon,10,0.0,,0.000977,-1.0,267.535,7.315,-97.3,True,0.061551,False
+B2,ttr_seconds,TTR (s),lower,wilcoxon,10,13.0,,0.080078,-0.5273,88.935,86.48,-2.8,True,1.0,False
+B2,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,0.0,,0.000977,-1.0,0.376,0.0,-100.0,True,0.061551,False
+B3,p95_ms,p95 latency (ms),lower,wilcoxon,10,0.0,,0.000977,-1.0,25493.75,25236.0,-1.0,True,0.061551,False
+B3,p99_ms,p99 latency (ms),lower,wilcoxon,10,22.0,,0.3125,-0.2,25639.125,25386.84,-1.0,True,1.0,False
+B3,throughput_rps,Throughput (rps),higher,wilcoxon,10,55.0,,0.000977,1.0,0.19,0.192,1.1,True,0.061551,False
+B3,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,55.0,,0.000977,1.0,73.02,100.0,36.9,True,0.061551,False
+B3,tfs_seconds,TFS (s),lower,wilcoxon,10,2.0,,0.007578,-0.9111,23.71,23.345,-1.5,True,0.371322,False
+B3,ttr_seconds,TTR (s),lower,wilcoxon,10,39.0,,0.883789,0.4182,71.955,99.24,37.9,False,1.0,False
+B3,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,,,,,0.0,0.0,,,,False
+C1,p95_ms,p95 latency (ms),lower,wilcoxon,10,28.0,,0.539062,0.0182,40038.25,40274.9,0.6,False,1.0,False
+C1,p99_ms,p99 latency (ms),lower,wilcoxon,10,22.0,,0.476383,-0.0222,57788.94,58978.35,2.1,False,1.0,False
+C1,throughput_rps,Throughput (rps),higher,wilcoxon,10,45.0,,0.041992,0.6364,0.286,0.31,8.4,True,1.0,False
+C1,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,55.0,,0.000977,1.0,57.54,98.945,72.0,True,0.061551,False
+C1,tfs_seconds,TFS (s),lower,wilcoxon,10,21.0,,0.27832,-0.2364,36.55,35.95,-1.6,True,1.0,False
+C1,ttr_seconds,TTR (s),lower,wilcoxon,10,14.0,,0.09668,-0.4909,83.8,80.785,-3.6,True,1.0,False
+C1,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,0.0,,0.000977,-1.0,0.167,0.114,-31.7,True,0.061551,False
+C2,p95_ms,p95 latency (ms),lower,wilcoxon,10,32.0,,0.6875,0.1636,24751.575,24860.85,0.4,False,1.0,False
+C2,p99_ms,p99 latency (ms),lower,wilcoxon,10,33.0,,0.72168,0.2,25186.5,25204.215,0.1,False,1.0,False
+C2,throughput_rps,Throughput (rps),higher,wilcoxon,10,31.0,,0.384766,0.1273,1.607,1.614,0.4,True,1.0,False
+C2,partial_availability_pct,Partial Availability (%),higher,wilcoxon,10,55.0,,0.000977,1.0,7.635,100.0,1209.8,True,0.061551,False
+C2,tfs_seconds,TFS (s),lower,wilcoxon,10,19.0,,0.21582,-0.3091,23.425,22.425,-4.3,True,1.0,False
+C2,ttr_seconds,TTR (s),lower,wilcoxon,10,34.0,,0.753906,0.2364,90.965,103.795,14.1,False,1.0,False
+C2,slo_violation_score,SLO Violation Score,lower,wilcoxon,10,0.0,,0.000977,-1.0,0.424,0.0,-100.0,True,0.061551,False

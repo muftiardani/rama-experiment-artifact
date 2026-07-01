@@ -1,0 +1,178 @@
+experiment:
+  name: rama-static-vs-treatment-final
+  environment: vps
+  repetitions: 10
+  conditions:
+    - static_resilience
+    - treatment
+
+runtime:
+  backend_url: http://[IP-VPS]/api
+  infer_url: http://[IP-VPS]/api/v1/infer
+  prometheus_url: http://127.0.0.1:19090
+  postgres_dsn_env: POSTGRES_DSN_TUNNEL
+  vps_ssh_host: [IP-VPS]
+  vps_ssh_user: [user-disamarkan]
+  vps_ssh_port: 22
+  vps_ssh_key: ~/.ssh/[kunci-ssh-disamarkan]
+  vps_project_dir: [path-disamarkan]
+  access_token_env: ACCESS_TOKEN
+
+load_generator:
+  type: external
+  location: vps-loadgen
+  tool: k6
+  run_on_vps: false
+
+global:
+  wait_ready_timeout_seconds: 300
+  steady_load_wait_seconds: 300
+  observe_seconds: 120
+  recovery_timeout_seconds: 600
+  k6_max_vu: 5
+  request_timeout_seconds: 90
+  cooldown_seconds: 300
+
+conditions:
+  static_resilience:
+    compose_files:
+      - docker-compose.yml
+      - docker-compose.static-resilience.yml
+    env:
+      EXPERIMENT_MODE: static_resilience
+      ENABLE_STATIC_RESILIENCE: "true"
+      ENABLE_RAMA_RESILIENCE: "false"
+      ENABLE_CONTEXT_AWARE_FALLBACK: "false"
+      ENABLE_COMPUTE_PROFILE_AWARE_POLICY: "false"
+      ENABLE_FALLBACK_COORDINATION: "false"
+      ENABLE_PARTIAL_RESPONSE: "false"
+      ENABLE_CIRCUIT_BREAKER: "true"
+      ENABLE_RETRY: "true"
+
+  treatment:
+    compose_files:
+      - docker-compose.yml
+      - docker-compose.treatment.yml
+    env:
+      EXPERIMENT_MODE: treatment
+      ENABLE_STATIC_RESILIENCE: "false"
+      ENABLE_RAMA_RESILIENCE: "true"
+      ENABLE_CONTEXT_AWARE_FALLBACK: "true"
+      ENABLE_COMPUTE_PROFILE_AWARE_POLICY: "true"
+      ENABLE_FALLBACK_COORDINATION: "true"
+      ENABLE_PARTIAL_RESPONSE: "true"
+      ENABLE_CIRCUIT_BREAKER: "true"
+
+scenarios:
+  - id: SS
+    class: steady_state
+    k6_script: experiments/k6/steady-state.js
+    fault:
+      type: none
+
+  - id: A1
+    class: resource_exhaustion
+    k6_script: experiments/k6/class-a.js
+    target: vision
+    fault:
+      type: cpu_pressure
+      event_target: vision
+      commands:
+        - docker exec temandifa_vision stress-ng --cpu 1 --cpu-load 90 --timeout 180
+
+  - id: A2
+    class: resource_exhaustion
+    k6_script: experiments/k6/class-a.js
+    target: speech
+    fault:
+      type: memory_pressure
+      event_target: speech
+      commands:
+        - docker exec temandifa_speech stress-ng --vm 1 --vm-bytes 1024M --timeout 180
+
+  - id: A3
+    class: resource_exhaustion
+    k6_script: experiments/k6/class-a.js
+    target: vision_speech
+    fault:
+      type: combined_pressure
+      event_target: vision,speech
+      parallel:
+        - docker exec temandifa_vision stress-ng --cpu 1 --cpu-load 90 --timeout 180
+        - docker exec temandifa_speech stress-ng --vm 1 --vm-bytes 1024M --timeout 180
+
+  - id: B1
+    class: component_failure
+    k6_script: experiments/k6/class-b.js
+    target: vision
+    fault:
+      type: stop_container
+      event_target: vision
+      commands:
+        - docker stop temandifa_vision
+    recovery:
+      commands:
+        - docker start temandifa_vision
+
+  - id: B2
+    class: component_failure
+    k6_script: experiments/k6/class-b.js
+    target: speech
+    fault:
+      type: stop_container
+      event_target: speech
+      commands:
+        - docker stop temandifa_speech
+    recovery:
+      commands:
+        - docker start temandifa_speech
+
+  - id: B3
+    class: component_failure
+    k6_script: experiments/k6/class-b.js
+    target: ocr
+    fault:
+      type: stop_container
+      event_target: ocr
+      commands:
+        - docker stop temandifa_ocr
+    recovery:
+      commands:
+        - docker start temandifa_ocr
+
+  - id: C1
+    class: cascading
+    k6_script: experiments/k6/class-c.js
+    target: speech
+    fault:
+      type: gradual_memory_pressure
+      event_target: speech
+      stages:
+        - command: docker exec temandifa_speech stress-ng --vm 1 --vm-bytes 256M --timeout 60
+          duration_seconds: 60
+        - command: docker exec temandifa_speech stress-ng --vm 1 --vm-bytes 512M --timeout 60
+          duration_seconds: 60
+        - command: docker exec temandifa_speech stress-ng --vm 1 --vm-bytes 1024M --timeout 180
+          duration_seconds: 180
+    recovery:
+      commands:
+        - docker restart temandifa_speech
+
+  - id: C2
+    class: cascading
+    k6_script: experiments/k6/class-c.js
+    target: vision_speech
+    fault:
+      type: cascade_failure
+      event_target: vision,speech
+      sequence:
+        - command: docker stop temandifa_vision
+          target: vision
+          wait_after_seconds: 30
+        - command: docker stop temandifa_speech
+          target: speech
+          wait_after_seconds: 120
+    recovery:
+      commands:
+        - docker start temandifa_vision
+        - docker start temandifa_speech

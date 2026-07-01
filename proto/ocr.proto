@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package ocr;
+option go_package = "temandifa-backend/internal/grpc/ocr";
+
+service OCRService {
+  rpc RecognizeText(OCRRequest) returns (OCRResponse);
+  rpc HealthCheck(HealthRequest) returns (HealthResponse);
+}
+
+message OCRRequest {
+  bytes image_data = 1;
+  string language = 2;
+  bool include_coordinates = 3;
+}
+
+message TextBlock {
+  string text = 1;
+  float confidence = 2;
+  float x1 = 3;
+  float y1 = 4;
+  float x2 = 5;
+  float y2 = 6;
+}
+
+message OCRResponse {
+  repeated TextBlock blocks = 1;
+  string full_text = 2;
+  float inference_time_ms = 3;
+  string service_level = 4;
+  bool text_detected = 5;
+  // Bahasa yang benar-benar digunakan worker untuk OCR (mungkin berbeda dari
+  // yang diminta jika model yang di-load tidak mendukung bahasa tersebut).
+  string language_used = 6;
+}
+
+message HealthRequest {}
+
+message HealthResponse {
+  string status = 1;
+  string model_loaded = 2;
+  float memory_usage_mb = 3;
+  float cpu_usage_percent = 4;
+  string version = 5;
+}

@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package speech;
+option go_package = "temandifa-backend/internal/grpc/speech";
+
+service SpeechService {
+  rpc Transcribe(TranscribeRequest) returns (TranscribeResponse);
+  rpc HealthCheck(HealthRequest) returns (HealthResponse);
+}
+
+message TranscribeRequest {
+  bytes audio_data = 1;
+  string audio_format = 2;
+  string language = 3;
+  bool keyword_only = 4;
+}
+
+message TranscribeResponse {
+  string text = 1;
+  string detected_language = 2;
+  float confidence = 3;
+  float inference_time_ms = 4;
+  string service_level = 5;
+  repeated string keywords = 6;
+}
+
+message HealthRequest {}
+
+message HealthResponse {
+  string status = 1;
+  string model_loaded = 2;
+  float memory_usage_mb = 3;
+  float cpu_usage_percent = 4;
+  string version = 5;
+}

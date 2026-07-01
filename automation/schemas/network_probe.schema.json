@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NetworkProbe",
+  "type": "object",
+  "required": ["phase", "load_generator_location", "client_timestamp"],
+  "properties": {
+    "phase":                    { "type": "string", "enum": ["before", "after", "standalone"] },
+    "load_generator_location":  { "type": "string", "const": "laptop" },
+    "target_url":               { "type": "string" },
+    "hostname":                 { "type": "string" },
+    "public_ip_hash":           { "type": "string" },
+    "k6_version":               { "type": "string" },
+    "ping_avg_ms":              { "type": "number" },
+    "packet_loss_percent":      { "type": "number", "minimum": 0, "maximum": 100 },
+    "dns_resolved":             { "type": "string" },
+    "http_health_status":       { "type": "integer" },
+    "http_ready_status":        { "type": "integer" },
+    "client_timestamp":         { "type": "string", "format": "date-time" },
+    "server_timestamp":         { "type": "string" }
+  }
+}
