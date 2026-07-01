@@ -1,0 +1,28 @@
+{
+  "title": "RAMA TemanDifa Artifact Package",
+  "description": "Artifact package for RAMA (Resilient AI Microservices Architecture), a resilient microservices architecture for multi-model AI inference on a single-node resource-constrained environment. Includes source code excerpts, experiment automation, 180-run processed results, statistical tests, and observability evidence.",
+  "creators": [
+    {
+      "name": "Ardani, Muhammad Mufti"
+    }
+  ],
+  "keywords": [
+    "RAMA",
+    "microservices",
+    "resilience",
+    "multi-model inference",
+    "fault injection",
+    "chaos engineering",
+    "edge AI"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/muftiardani/rama-experiment-artifact",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
